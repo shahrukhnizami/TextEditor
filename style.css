@@ -1,5 +1,5 @@
 body{
-    background-color:#ddd;
+    background-color:#c5c4c5;
 }
 .text-center{
     color: white;
@@ -10,7 +10,6 @@ body{
 }
 span{
     color: rgb(0, 0, 0);
-    margin-bottom: 10px;
 }
 .toolbar{
     padding: 3px;
@@ -26,7 +25,8 @@ span{
 input{
     max-width: 20px;
     margin-top: 9px;
-    height: 20px;;
+    height: 20px;
+    border: none;
 
 }
 
